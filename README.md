@@ -9,10 +9,4 @@ Thanks!
 Commit 1
 commit 2
 Commit 3
-=======
-Thanks!
->>>>>>> parent of 20c307c... commit 1
-Commit 4
-=======
-Commit 1
->>>>>>> parent of 302bb81... commit 2
+
