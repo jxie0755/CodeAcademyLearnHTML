@@ -3,13 +3,14 @@
 }
 
 h1 {
-  color: FireBrick
+  color: FireBrick;
 }
 
 p {
-  font-size: 18px
+  font-size: 18px;
 }
 
 h1, p {
-  color: DarkSlateGray
+  color: DarkSlateGray;
 }
+/* THis is a comment */
