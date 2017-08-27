@@ -91,3 +91,11 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/osx,jetbrains
+.idea/CodeAcademyLearnHTML.iml
+.idea/CodeAcademyLearnHTML.iml
+.idea/codeStyleSettings.xml
+.idea/CodeAcademyLearnHTML.iml
+.idea/codeStyleSettings.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
