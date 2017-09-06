@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3efe7779-ce12-4260-9ee5-205da96c1817" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/GithubTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/Index1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/Index4a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/Style4b.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/Style5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style3b.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style4a.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/stylex.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index1b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index3b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index4b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/test.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="3efe7779-ce12-4260-9ee5-205da96c1817" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -126,35 +106,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CodeAcademyLearnHTML" />
+              <option name="myItemId" value="Learning_Web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CodeAcademyLearnHTML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeAcademyLearnHTML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeAcademyLearnHTML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="Learning_Web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -273,6 +239,7 @@
       <workItem from="1504739948288" duration="90000" />
       <workItem from="1504740048647" duration="49000" />
       <workItem from="1504740100771" duration="1000" />
+      <workItem from="1504740169369" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="Using Webstorm">
       <created>1503842131367</created>
@@ -292,7 +259,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20331000" />
+    <option name="totallyTimeSpent" value="20341000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
