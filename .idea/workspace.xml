@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3efe7779-ce12-4260-9ee5-205da96c1817" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/GithubTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/Index1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/Index4a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/Style4b.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/Style5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style3b.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/style4a.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/css/stylex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index1b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index3b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index4b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/index5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled folder/test.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,7 +43,7 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -137,7 +155,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -253,7 +270,9 @@
       <workItem from="1503977729521" duration="117000" />
       <workItem from="1504359907260" duration="3480000" />
       <workItem from="1504469792167" duration="517000" />
-      <workItem from="1504739948288" duration="16000" />
+      <workItem from="1504739948288" duration="90000" />
+      <workItem from="1504740048647" duration="49000" />
+      <workItem from="1504740100771" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="Using Webstorm">
       <created>1503842131367</created>
@@ -273,7 +292,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20207000" />
+    <option name="totallyTimeSpent" value="20331000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,12 +309,12 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14455917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
